@@ -96,7 +96,7 @@ Ejemplo: rango 5 Radioactive - Imagine Dragons
 clustering
 clustering nombreCancion
 
-Donde "nombreCancion" es el nombre de la cancion a la que se le quire conocer su clustering, dejar en blanco para calcular el clustering general.
+Donde "nombreCancion" es el nombre de la cancion a la que se le quiere conocer su clustering, dejar en blanco para calcular el clustering general.
 Calcula el coeficiente de clustering de la cantidad indicada o la sumatoria del de todos los vertices dividido el numero de vertices.
 Devuelve el coeficiente de clustering particular de la cancion o el del grafo segun corresponda.
 
